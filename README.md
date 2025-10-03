@@ -1,37 +1,62 @@
-# SUMITGAIKWAD
+# 👋 Hi, I'm SUMIT GAIKWAD
 
-[![MasterHead](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)]
-<h1 align="center">Hi 👋, I'm SUMIT</h1>
-<h3 align="center"> A passionate Web and Python Developer </h3>
+![Header]([https://i.imgur.com/abcde123.png](https://instagram.fpnq13-6.fna.fbcdn.net/v/t51.2885-19/522707646_18054922511599336_5832946159047711343_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fpnq13-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEOXKI9rKFyGI1lZzaQqH3SuKhTNg2zqAwNShwonSRpQAAHOLg2r0llvkfh-85-AYPZkmy01422zIWh3KhYT7q9&_nc_ohc=9SGwhNgEpa0Q7kNvwES7R4j&_nc_gid=iQTCrpwreyw9Dxoo78oUcQ&edm=ACE-g0gBAAAA&ccb=7-5&oh=00_AfeyLtDE2rfzvhu7_6R0SyhIHqJy82Rw56z8VB0Pjmz5QQ&oe=68E60E42&_nc_sid=b15361))
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUMITGAIKWAD90&label=Profile%20views&color=0e75b6&style=flat" alt="SUMITGAIKWAD90"/> </p>
+### A passionate Web and Python Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SUMITGAIKWAD90" alt="SUMITGAIKWAD90" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=SUMITGAIKWAD90&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on **MDM - Connect**
+## 🧠 About Me
 
-- 🌱 I’m currently learning **DSA , DATA SCIENCE**
+- 🔭 I’m currently working on **MDM - Connect** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+- 🌱 I’m currently learning **DSA, Data Science**
+- 👯 I’m looking to collaborate on **Web / Data Science / Machine Learning Projects**
+- 📫 Reach me at: **om1929390@gmail.com**
 
-- 👯 I’m looking to collaborate on **Web/Data Science/Machine Learning projects**
+---
 
-- 📫 How to reach me **om1929390@gmail.com**
+## 🌐 Connect with me:
 
-<h3 align="left">Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sumitgaikwad09/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram)](https://www.instagram.com/itz__sumiit09)
 
-<p align="left">
-<a href="[https://linkedin.com/in/sumit gaikwad](https://www.linkedin.com/in/sumitgaikwad09/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit gaikwad" height="30" width="40" /></a>
-<a href="[https://instagram.com/itz__sumiit09](https://www.instagram.com/itz__sumiit09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz__sumiit09" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🛠️ Languages and Tools:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SUMITGAIKWAD90&show_icons=true&locale=en&layout=compact" alt="SUMITGAIKWAD90" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SUMITGAIKWAD90&show_icons=true&locale=en" alt="SUMITGAIKWAD90" /></p>
+---
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=SUMITGAIKWAD90&show_icons=true&locale=en](https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/book.gif)" alt="SUMITGAIKWAD90" /></p>
+## 🏆 GitHub Trophies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUMITGAIKWAD90&" alt="SUMITGAIKWAD90" /></p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SUMITGAIKWAD90&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SUMITGAIKWAD90&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUMITGAIKWAD90&show_icons=true&locale=en&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SUMITGAIKWAD90&theme=dark)
+
+---
+
+<!-- Optional: Add fun GIFs or custom images here -->
+![GIF](https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/book.gif)
