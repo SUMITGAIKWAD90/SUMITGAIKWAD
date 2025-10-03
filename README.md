@@ -56,5 +56,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SUMITGAIKWAD90&theme=dark)
 
-- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 ---
