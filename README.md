@@ -1,7 +1,5 @@
 # 👋 Hi, I'm SUMIT GAIKWAD
 
-![Header](https://avatars.githubusercontent.com/u/145562822?s=400&u=4a6a3467a43a6982691833223c4a75c0e29e4a8c&v=4)
-
 ### A passionate Web and Python Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SUMITGAIKWAD90&label=Profile%20views&color=0e75b6&style=flat)
