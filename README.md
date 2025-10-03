@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI ChatBot in Web/Android application**
+- 🔭 I’m currently working on **MDM - Connect**
 
-- 🌱 I’m currently learning **AI/ML, DSA**
+- 🌱 I’m currently learning **DSA , DATA SCIENCE**
 
-- 👯 I’m looking to collaborate on **Web/Android/Unity applications projects**
+- 👯 I’m looking to collaborate on **Web/Data Science/Machine Learning projects**
 
-- 📫 How to reach me **aayushmnikam@gmail.com**
+- 📫 How to reach me **om1929390@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
