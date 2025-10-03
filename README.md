@@ -10,10 +10,11 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **MDM - Connect** <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+- 🔭 I’m currently working on **MDM - Connect** 
 - 🌱 I’m currently learning **DSA, Data Science**
 - 👯 I’m looking to collaborate on **Web / Data Science / Machine Learning Projects**
 - 📫 Reach me at: **om1929390@gmail.com**
+- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 
 ---
 
@@ -57,6 +58,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SUMITGAIKWAD90&theme=dark)
 
 ---
-
-<!-- Optional: Add fun GIFs or custom images here -->
-![GIF](https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/book.gif)
