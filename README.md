@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SUMIT GAIKWAD
 
-![Header]([https://i.imgur.com/abcde123.png](https://instagram.fpnq13-6.fna.fbcdn.net/v/t51.2885-19/522707646_18054922511599336_5832946159047711343_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fpnq13-6.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2QEOXKI9rKFyGI1lZzaQqH3SuKhTNg2zqAwNShwonSRpQAAHOLg2r0llvkfh-85-AYPZkmy01422zIWh3KhYT7q9&_nc_ohc=9SGwhNgEpa0Q7kNvwES7R4j&_nc_gid=iQTCrpwreyw9Dxoo78oUcQ&edm=ACE-g0gBAAAA&ccb=7-5&oh=00_AfeyLtDE2rfzvhu7_6R0SyhIHqJy82Rw56z8VB0Pjmz5QQ&oe=68E60E42&_nc_sid=b15361))
+![Header](https://avatars.githubusercontent.com/u/145562822?s=400&u=4a6a3467a43a6982691833223c4a75c0e29e4a8c&v=4)
 
 ### A passionate Web and Python Developer
 
