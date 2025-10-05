@@ -143,9 +143,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=SUMITGAIKWAD90&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUMITGAIKWAD90&show_icons=true&locale=en&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SUMITGAIKWAD90&theme=dark)
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 ---
